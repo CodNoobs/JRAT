@@ -1,13 +1,13 @@
 JRAT desktop application for Windows designed for parents to watch their children camputer's and save them from all the bad things can happen to them
 
-###->Features List:
-  *-file explorer
-  *-machone contoroling
-  *-send messages to target machine
-  *-open camera
-  *-open microfon
-  *-reverse shell
-  *-download and upload files
+### ->Features List:
+  * -file explorer
+  * -machone contoroling
+  * -send messages to target machine
+  * -open camera
+  * -open microfon
+  * -reverse shell
+  * -download and upload files
 
  
 
